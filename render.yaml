@@ -21,4 +21,4 @@ services:
       - key: JWT_EXPIRE_DAYS
         value: "30"
       - key: ALLOWED_ORIGINS
-        value: https://frontend-kohl-ten-86.vercel.app,http://localhost:5173
+        value: https://frontend-63lz2r4b3-ananyabarai092-webs-projects.vercel.app,http://localhost:5173
